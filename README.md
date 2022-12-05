@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fletcherholman
 - 👀 I’m interested in Woodworking, Motorcycles, and Development
 - 🌱 I’m currently learning NodeJs
-- 💞️ I’m looking to collaborate on a web application to help growers in the medical marijuana field.
+- 💞️ I’m looking to collaborate on a web application to help ......
 - 📫 How to reach me ---> fletcherholman@gmail.com
 
 <!---
